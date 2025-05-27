@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Joshua 👋
+I'm Joshua, I'm just starting out in programming.
 <!--
 **Jotlle/Jotlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
